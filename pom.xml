@@ -7,6 +7,10 @@
     <groupId>com.github.ptnplanet</groupId>
     <artifactId>Java-Naive-Bayes-Classifier</artifactId>
     <version>1.0.7</version>
+    <properties>
+        <maven.compiler.source>17</maven.compiler.source>
+        <maven.compiler.target>17</maven.compiler.target>
+    </properties>
 
     <dependencies>
         <dependency>
